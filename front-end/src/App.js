@@ -30,7 +30,7 @@ const App = () => {
       console.log("Encontrou uma conta autorizada:", account);
       setCurrentAccount(account);
     } else {
-      console.log("Nenhuma conta autorizada foi encontrada");
+      console.log("Nenhumaasda conta autorizada foi encontrada");
     }
     // let chainId = await ethereum.request({ method: "eth_chainId" });
     // console.log("Conectado à rede " + chainId);
